@@ -1,6 +1,6 @@
-![Untitled Diagram_2025-09-29T16_34_21 346Z](https://github.com/user-attachments/assets/0c942a3a-86b2-423f-ab2c-1a95d3f9a77c)<div>
+<div>
   <h2>Description</h2>
-  <p>The test assignment included creating a copy of an existing telegram bot using asynchronous libraries, python, any ORM, and minimal code style.</p>
+  <p>System for automating the attachment of dormitory payment receipts and checking their validity, as well as manipulating users and their accounts for administrative purposes.</p>
   <img src = https://github.com/user-attachments/assets/3f1df776-c9a9-4a22-ac8a-e16914d6f0c3>
   <p align=center>Database inner structure</p>
 <h2>Frameworks used</h2>  
